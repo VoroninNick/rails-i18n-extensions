@@ -1,0 +1,42 @@
+uk:
+  activerecord:
+    models:
+      service:
+        one: "Послуга"
+        other: "Послуги"
+      article:
+        one: "Стаття"
+        other: "Статті"
+      sitemap_element: "Сайтмап елемент"
+    attributes:
+      name: "Назва"
+      published: "Опуліковано"
+      route_fragment: "URL-фрагмент"
+      additional_info: "Додаткова інформація"
+      price: "ціна, грн/м<sup>2</sup>"
+      price_from: "Ціна від, грн/м<sup>2</sup>"
+      building_start_date: "початок будівництва"
+      building_end_date: "термін здачі"
+      name: "Назва"
+      main_info: "Основна інформація"
+      technical_info: "Технічна інформація"
+      infrastructure: "Інфраструктура"
+      total_square: "Загальна площа комплексу(Проектна), м<sup>2</sup>"
+      images: "Картинки"
+      coordinates: "Координати"
+      country: "Країна"
+      city: "Місто"
+      district: "Район"
+      street: "Вулиця"
+      street_number: "Номер будинку"
+      apartment_number: "Номер квартири"
+      images: "Картинки"
+      image: "Картинка"
+
+      # seo module
+      display_on_sitemap: "Показувати в сайтмапі"
+      changefreq: "Частота змін"
+      priority: "Приорітет"
+
+      data_file_name: "Ім’я файлу"
+      data_alt: "Альт"
